@@ -121,6 +121,11 @@ footer {
   color: var(--secondary);
   font-size: 1.55rem;
 }
+
+.task-input-group {
+  display: flex;
+  flex-direction: row;
+}
 .task-actions {
   display: flex;
   flex-wrap: wrap;
